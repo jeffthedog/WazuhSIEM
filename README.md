@@ -11,3 +11,6 @@ Data Visualization and Dashboards: Kibana enables clear visualization of network
 Real-Time Alerts and Notifications: Configured alerts keep you informed of critical security events, supporting rapid response to incidents.
 Lightweight and Resource-Efficient: Unlike heavy, complex SIEM solutions, this setup is designed to be lightweight, making it suitable for environments with limited resources while still offering powerful security capabilities.
 
+Download the SIEM Virtual Machine Here
+
+https://drive.google.com/file/d/1FwBMRGGFCjOr9r3hApmBvFfsXsqeeLmZ/view?usp=drive_link --> Wazuh Server
