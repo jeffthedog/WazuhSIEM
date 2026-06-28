@@ -13,4 +13,4 @@ Lightweight and Resource-Efficient: Unlike heavy, complex SIEM solutions, this s
 
 Download the SIEM Virtual Machine Here
 
-https://drive.google.com/file/d/1FwBMRGGFCjOr9r3hApmBvFfsXsqeeLmZ/view?usp=drive_link --> Wazuh Server
+https://drive.google.com/drive/folders/1ibt5-Wa78nHO53KjSj5dVfbb-E9fwCNq?usp=sharing --> Wazuh Server
